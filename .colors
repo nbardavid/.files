@@ -1,0 +1,2 @@
+alias ls="read -r time <~/.zprofiles.d/.time_value; sleep $time && ls"
+alias cd="read -r time <~/.zprofiles.d/.time_value; sleep $time && cd"
