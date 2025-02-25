@@ -1,2 +1,2 @@
-alias ls="read -r time <~/.zprofiles.d/.time_value; sleep $time 2>/dev/null; ls"
-alias cd="read -r time <~/.zprofiles.d/.time_value; sleep $time 2>/dev/null; cd"
+alias ls='read -r time <~/.zprofiles.d/.time_value; sleep $time 2>/dev/null; ls'
+alias cd='read -r time <~/.zprofiles.d/.time_value; sleep $time 2>/dev/null; cd'
